@@ -1,0 +1,7 @@
+D:\c# codes\VigenerePraktinis1\bin\Debug\VigenerePraktinis1.exe.config
+D:\c# codes\VigenerePraktinis1\bin\Debug\VigenerePraktinis1.exe
+D:\c# codes\VigenerePraktinis1\bin\Debug\VigenerePraktinis1.pdb
+D:\c# codes\VigenerePraktinis1\obj\Debug\VigenerePraktinis1.csproj.AssemblyReference.cache
+D:\c# codes\VigenerePraktinis1\obj\Debug\VigenerePraktinis1.csproj.CoreCompileInputs.cache
+D:\c# codes\VigenerePraktinis1\obj\Debug\VigenerePraktinis1.exe
+D:\c# codes\VigenerePraktinis1\obj\Debug\VigenerePraktinis1.pdb
